@@ -1,20 +1,30 @@
 # Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+env/
+venv/
+instance/
 .env
 
-# Node
-node_modules/
-.env.local
+# Flask
+*.db
+*.sqlite3
 
-# Build
+# Node.js / React
+node_modules/
 build/
 dist/
+.env.local
+.env.development
+.env.production
 
-# Logs
-*.log
+# VS Code
+.vscode/
 
-# System
+# macOS
 .DS_Store
-Thumbs.db
 
+# Windows
+Thumbs.db
