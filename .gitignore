@@ -28,3 +28,10 @@ dist/
 
 # Windows
 Thumbs.db
+
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
